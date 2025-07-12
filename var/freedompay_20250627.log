@@ -1,0 +1,15 @@
+[2025-06-27 20:32:37] hookPayment triggered
+[2025-06-27 20:32:37] Cart ID: 97, Customer ID: 32
+[2025-06-27 20:32:37] Is booking cart: Yes
+[2025-06-27 20:32:37] Booking total: 10
+[2025-06-27 20:32:37] Displaying payment button
+[2025-06-27 20:32:43] hookPayment triggered
+[2025-06-27 20:32:43] Cart ID: 97, Customer ID: 32
+[2025-06-27 20:32:43] Is booking cart: Yes
+[2025-06-27 20:32:43] Booking total: 10
+[2025-06-27 20:32:43] Displaying payment button
+[2025-06-27 20:40:46] 📩 Callback received: Array
+(
+)
+
+[2025-06-27 20:40:46] [ERROR] ⛔ Missing session token
